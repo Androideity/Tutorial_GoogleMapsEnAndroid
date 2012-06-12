@@ -1,0 +1,10 @@
+Proyecto que muestra el uso de la API de Google Maps en una aplciación Android.
+
+- Instalación de las Google API's para Android.
+- Creación de una key para trabajar con la API de Google Maps.
+- Declaración de un MapView en XML.
+- Creación de un proyecto y una AVD que soporten las API's de Google Maps.
+- Agregar los permisos necesarios en el archivo AndroidManifest.xml para trabajar con Google Maps.
+- Uso de una MapActivity en Android.
+
+Ver tutorial: http://androideity.com/2011/10/07/usando-google-maps-con-android/
